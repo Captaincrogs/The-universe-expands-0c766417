@@ -1,0 +1,1 @@
+INSERT INTO `sterrenstelsel`.`planeet` (`naam`) VALUES ('');
